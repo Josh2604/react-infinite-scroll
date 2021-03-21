@@ -1,0 +1,9 @@
+.posts-container{
+  max-height: 44em;
+  overflow-y: scroll;
+  overflow-x: hidden;
+  /* border: 1px solid red; */
+}
+.card-container{
+  margin: 1em 0em 1em 0em;
+}
